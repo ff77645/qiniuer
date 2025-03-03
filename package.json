@@ -1,0 +1,17 @@
+{
+  "name": "qiniuer",
+  "version": "0.1.0",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "jshashes": "^1.0.8",
+    "qiniu-js": "^3.4.2"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.2"
+  }
+}
